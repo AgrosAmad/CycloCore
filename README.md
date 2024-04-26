@@ -13,4 +13,16 @@ It is a core implementation of the paper Cyclogenesis: Simulating Hurricanes and
 
 BibTex Citation
 ----------------------
-TBDT
+@article{AmadorHerrera:2024:Cyclogenesis,
+  author    = {Jorge~Alejandro Amador~Herrera and Jonathan Klein and Daoming Liu and Wojtek Pa{\l}ubicki and S\"oren Pirk and Dominik L.~Michels},
+  title     = {Cyclogenesis: Simulating Hurricanes and Tornadoes},
+  journal   = {ACM Transaction on Graphics},
+  year      = {2024},
+  month     = {7},
+  volume    = {43},
+  number    = {4},
+  articleno = {71},
+  doi       = {https://doi.org/10.1145/3658149},
+  publisher = {ACM},
+  address   = {New York, NY, USA}
+}
